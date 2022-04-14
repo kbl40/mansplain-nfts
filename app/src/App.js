@@ -8,9 +8,8 @@ import MansplainNft from "./utils/MansplainNft.json";
 // Constants
 const TWITTER_HANDLE = 'KyleLackinger';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
-const OPENSEA_LINK = 'https://testnets.opensea.io/collection/let-me-mansplain-that-f0jolkuoi8';
 const TOTAL_MINT_COUNT = 20;
-const CONTRACT_ADDRESS = '0x856A689A50Be60242009A10F5EaE3f9F5D64a374';
+const CONTRACT_ADDRESS = '0x12Adb6544f4405A44A9C8B6FD1A6E620aDF3e685';
 
 const App = () => {
   // State variables
@@ -130,7 +129,7 @@ const App = () => {
         Connect to Wallet
       </button>
       <p className="links">
-        <a href='https://testnets.opensea.io/collection/let-me-mansplain-that-f0jolkuoi8'>LMMT on OpenSea</a>
+        <a href='https://testnets.opensea.io/collection/let-me-mansplain-that-6vhdxg6bqu'>LMMT on OpenSea</a>
       </p>
     </div>
   );
@@ -141,7 +140,7 @@ const App = () => {
         Mint NFT
       </button>
       <p className="links">
-        <a href='https://testnets.opensea.io/collection/let-me-mansplain-that-f0jolkuoi8'>LMMT on OpenSea</a>
+        <a href='https://testnets.opensea.io/collection/let-me-mansplain-that-6vhdxg6bqu'>LMMT on OpenSea</a>
       </p>
     </div>
   );
